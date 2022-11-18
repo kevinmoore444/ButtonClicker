@@ -1,0 +1,173 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    }
+
+/*NAVBAR*/
+
+.navbar{
+    height: 100px;
+    width: 940px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: rgb(207, 207, 207);
+    display: flex;
+    align-items: center;
+}
+
+.navbar h1{
+    font-size: 50px;
+    margin-left: 25px;
+}
+
+.navbar input{
+    margin-left: 150px;
+    line-height: 25px;
+    width: 300px;
+    font-size: 18px;
+    border-color: black;
+}
+
+.navbar button{
+    margin-left: 120px;
+    background: blue;
+    color: white;
+    height: 40px;
+    width: 80px;
+    box-shadow: black 3px 3px 3px;
+    font-size: 18px;
+}
+
+.maincontent{
+    height: 700px;
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+
+/*Definition1*/
+
+
+.definition1{
+    height: 250px;
+    width: 600px;
+    margin-left: 100px;
+    margin-top: 30px;
+    border: solid black 4px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.definition1 h1{
+    font-size: 50px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.definition1 h3{
+    font-size: 25px;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.definition1 h4{
+    font-size: 25px;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.definition1 button{
+    margin-top: 30px;
+    margin-left: 20px;
+    height: 40px;
+    width: 100px;
+    font-size: 18px;
+    background-color: rgb(250, 229, 108);
+    box-shadow: black 3px 3px 3px;
+}
+
+.definition1 p{
+    margin-left: 30px;
+    margin-right: 200px;
+    font-size: 30px;
+    margin-top: 80px;
+    
+}
+
+/*Definition2*/
+
+.definition2{
+    height: 250px;
+    width: 600px;
+    margin-left: 100px;
+    margin-top: 30px;
+    border: solid black 4px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.definition2 h1{
+    font-size: 50px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.definition2 h3{
+    font-size: 25px;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.definition2 h4{
+    font-size: 25px;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.definition2 button{
+    margin-top: 30px;
+    margin-left: 20px;
+    height: 40px;
+    width: 100px;
+    font-size: 18px;
+    background-color: rgb(250, 229, 108);
+    box-shadow: black 3px 3px 3px;
+}
+
+.definition2 p{
+    margin-left: 30px;
+    margin-right: 200px;
+    font-size: 30px;
+    margin-top: 70px;
+}
+
+/*Dojonary*/
+
+.dojonary{
+    height: 190px;
+    width: 300px;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 100px;
+    border: solid black 4px
+}
+
+.dojonary h1{
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 35px;
+}
+
+.dojonary button{
+    margin-left: 20px;
+    margin-top: 20px;
+    height: 50px;
+    width: 250px;
+    background-color:rgb(63, 160, 63);
+    box-shadow: black 4px 4px 4px;
+    font-size: 20px;
+}
